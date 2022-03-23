@@ -1,0 +1,14 @@
+motor.c:15:6:Move	16	static
+motor.c:60:6:Throttle	4	static
+motor.c:95:6:MotorInit	4	static
+motor.c:100:6:Forward	8	static
+motor.c:113:6:Backward	8	static
+motor.c:126:6:Right	8	static
+motor.c:139:6:Left	8	static
+motor.c:152:6:Fr45	8	static
+motor.c:163:6:Fl45	8	static
+motor.c:175:6:Br45	8	static
+motor.c:186:6:Bl45	8	static
+motor.c:197:6:Cw	8	static
+motor.c:210:6:Ccw	8	static
+motor.c:223:6:Stop	8	static
